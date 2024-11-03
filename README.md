@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/d62517b0-d25b-4714-8ba6-28038435178e)
 
+## Web App
+
+- [Web Link](https://code-cycle-hackathon.netlify.app/)
+
 ## Problem Statement
 
 - Traditional education often lacks the flexibility to accommodate diverse learning styles, 
